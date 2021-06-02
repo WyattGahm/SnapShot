@@ -1,0 +1,9 @@
+Package: com.wyattgahm.snapshot
+Name: SnapShot
+Author: wyattgahm <thegahmer@hotmail.com>
+Description: Disabled screenshot notification on Snapchat. Works most recent version. Use at your own risk.
+Depends: mobilesubstrate
+Maintainer: wyattgahm
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
